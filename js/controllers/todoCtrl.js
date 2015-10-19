@@ -3,6 +3,7 @@
 
 /**
 <<<<<<< HEAD
+<<<<<<< HEAD
 * The main controller for the app. The controller:
 * - retrieves and persists the model via the $firebaseArray service
 * - exposes the model to the template and provides event handlers
@@ -237,6 +238,8 @@ angular.element($window).bind("scroll", function() {
 
 }]);
 =======
+=======
+>>>>>>> 0ff53ee00163ddef1c048dcc029b9de79bf842bc
  * The main controller for the app. The controller:
  * - retrieves and persists the model via the $firebaseArray service
  * - exposes the model to the template and provides event handlers
@@ -372,4 +375,7 @@ todomvc.controller('TodoCtrl', function TodoCtrl($scope, $location, $firebaseArr
 	}
 	$scope.location = $location;
 });
+<<<<<<< HEAD
+>>>>>>> 0ff53ee00163ddef1c048dcc029b9de79bf842bc
+=======
 >>>>>>> 0ff53ee00163ddef1c048dcc029b9de79bf842bc

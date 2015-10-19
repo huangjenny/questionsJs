@@ -3,6 +3,7 @@
   "dependencies": {
     "angular": "^1.3.15",
     "angularfire": "^1.0.0",
+<<<<<<< HEAD
     "grunt": "^0.4.5"
   },
   "devDependencies": {
@@ -21,5 +22,9 @@
 "scripts": {
     "prestart": "npm install",
     "start": "http-server -a 0.0.0.0 -p 8000"
+=======
+    "todomvc-app-css": "^1.0.1",
+    "todomvc-common": "^1.0.1"
+>>>>>>> 0ff53ee00163ddef1c048dcc029b9de79bf842bc
   }
 }
